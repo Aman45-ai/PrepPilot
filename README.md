@@ -197,4 +197,8 @@ This project is available under the MIT License.
 
 ---
 
+<<<<<<< HEAD
 **Built with ❤️ using React and Vite.**
+=======
+**Built with ❤️ using React and Vite.**
+>>>>>>> 93cd21989f71a3053d0a200ebc058e6f57a4d788
